@@ -1,0 +1,18 @@
+### Hard Coded Minimums ###
+#
+# Because I use a Mac
+#
+**/.DS-Store
+
+#
+# Ignore Awesomebot output
+#
+**/ab-results*
+
+### PowerShell ###
+# Exclude packaged modules
+*.zip
+
+# Exclude .NET assemblies from source
+*.dll
+
